@@ -1,6 +1,6 @@
 uwsgi:
 
-  http: localhost:8080
+  http: 192.52.34.255:8080
 
   threads: 8
 
